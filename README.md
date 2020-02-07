@@ -62,7 +62,6 @@ SIGVerse window will be opened.
 ## How to Execute Handyman Program
 
 Please start the ROS side application beforehand.  
-By default, given 5 attempts.
 
 ### Execute On Unity Editor
 1. Double click "Assets/Competition/Handyman/Handyman(.unity)" in Project window.
