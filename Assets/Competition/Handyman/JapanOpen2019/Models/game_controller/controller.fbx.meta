@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 656a8ba974943d14b9fd2859a7a374d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: a
+    100002: andx
+    100004: ansx
+    100006: b
+    100008: c
+    100010: //RootNode
+    100012: Controller.001
+    100014: Controller.002
+    100016: Controller.003
+    100018: Controller.004
+    100020: Controller.005
+    100022: Controller.006
+    100024: Controller.007
+    100026: Controller.008
+    100028: Controller.009
+    100030: Controller.010
+    100032: cross
+    100034: d
+    100036: dx
+    100038: j
+    100040: sx
+    100042: z
+    400000: a
+    400002: andx
+    400004: ansx
+    400006: b
+    400008: c
+    400010: //RootNode
+    400012: Controller.001
+    400014: Controller.002
+    400016: Controller.003
+    400018: Controller.004
+    400020: Controller.005
+    400022: Controller.006
+    400024: Controller.007
+    400026: Controller.008
+    400028: Controller.009
+    400030: Controller.010
+    400032: cross
+    400034: d
+    400036: dx
+    400038: j
+    400040: sx
+    400042: z
+    2100000: controller
+    2100002: led
+    2100004: iron
+    2100006: button
+    2100008: write
+    2300000: a
+    2300002: andx
+    2300004: ansx
+    2300006: b
+    2300008: c
+    2300010: //RootNode
+    2300012: Controller.001
+    2300014: Controller.002
+    2300016: Controller.003
+    2300018: Controller.004
+    2300020: Controller.005
+    2300022: Controller.006
+    2300024: Controller.007
+    2300026: Controller.008
+    2300028: Controller.009
+    2300030: Controller.010
+    2300032: cross
+    2300034: d
+    2300036: dx
+    2300038: j
+    2300040: sx
+    2300042: z
+    3300000: a
+    3300002: andx
+    3300004: ansx
+    3300006: b
+    3300008: c
+    3300010: //RootNode
+    3300012: Controller.001
+    3300014: Controller.002
+    3300016: Controller.003
+    3300018: Controller.004
+    3300020: Controller.005
+    3300022: Controller.006
+    3300024: Controller.007
+    3300026: Controller.008
+    3300028: Controller.009
+    3300030: Controller.010
+    3300032: cross
+    3300034: d
+    3300036: dx
+    3300038: j
+    3300040: sx
+    3300042: z
+    4300000: Controller
+    4300002: Controller.010
+    4300004: Controller.009
+    4300006: Controller.008
+    4300008: Controller.007
+    4300010: Controller.006
+    4300012: Controller.005
+    4300014: Controller.004
+    4300016: Controller.003
+    4300018: Controller.002
+    4300020: Controller.001
+    4300022: z
+    4300024: sx
+    4300026: j
+    4300028: dx
+    4300030: d
+    4300032: cross
+    4300034: c
+    4300036: b
+    4300038: ansx
+    4300040: andx
+    4300042: a
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button
+    second: {fileID: 2100000, guid: d0f8cf9c59af99a4dbc4f1ec7af421e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: controller
+    second: {fileID: 2100000, guid: 0a943bc65ab318c4fb2a29613a3fb60f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron
+    second: {fileID: 2100000, guid: a3fd2a940c0afe047bd38dbdc871d685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: led
+    second: {fileID: 2100000, guid: 7992fcd707a21a047baa9612714f2c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: write
+    second: {fileID: 2100000, guid: dd3d1e618e321334987dd38195283fe5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
