@@ -221,7 +221,7 @@ namespace SIGVerse.Competition.Handyman
 
 			if (this.graspables.Count > this.graspingCandidatesPositions.Count)
 			{
-				throw new Exception("graspables.Count > graspingCandidatesPositions.Count.");
+				throw new Exception("graspables.Count("+this.graspables.Count+") > graspingCandidatesPositions.Count("+this.graspingCandidatesPositions.Count+").");
 			}
 			else
 			{

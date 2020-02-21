@@ -1220,7 +1220,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4039746368505504}
   m_Layer: 8
-  m_Name: LayoutHM01
+  m_Name: Layout2019HM01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8772,7 +8772,6 @@ GameObject:
   - component: {fileID: 4903058268805812}
   - component: {fileID: 33844906470630330}
   - component: {fileID: 23141121704492512}
-  - component: {fileID: 54207298008547992}
   - component: {fileID: 64846220071548564}
   m_Layer: 0
   m_Name: white_side_table#bedroom_1
@@ -8844,22 +8843,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!54 &54207298008547992
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1406821422269254}
-  serializedVersion: 2
-  m_Mass: 5
-  m_Drag: 0.01
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!64 &64846220071548564
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11054,7 +11037,6 @@ GameObject:
   - component: {fileID: 33374111036428842}
   - component: {fileID: 23777896740116580}
   - component: {fileID: 64774007850236524}
-  - component: {fileID: 54861043856049728}
   m_Layer: 0
   m_Name: square_low_table#living_room
   m_TagString: DestinationCandidates
@@ -11137,22 +11119,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: -1
   m_Mesh: {fileID: 4300000, guid: bf9a7046cfe2c674c89c1b8b7b8b6ec3, type: 3}
---- !u!54 &54861043856049728
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1487673295805076}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0.01
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!1 &1488167171237004
 GameObject:
   m_ObjectHideFlags: 0
@@ -11209,6 +11175,7 @@ GameObject:
   - component: {fileID: 4366344406848618}
   - component: {fileID: 33141474659635034}
   - component: {fileID: 23145934202635276}
+  - component: {fileID: 1362897204916968851}
   m_Layer: 0
   m_Name: jaguti_1
   m_TagString: Untagged
@@ -11275,6 +11242,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &1362897204916968851
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488966865982266}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: -1
+  m_Mesh: {fileID: 4300016, guid: 0465f963a5179614b809eebbaa471734, type: 3}
 --- !u!1 &1490293711434288
 GameObject:
   m_ObjectHideFlags: 0
@@ -14081,7 +14062,6 @@ GameObject:
   - component: {fileID: 4957463966510444}
   - component: {fileID: 33004789563715610}
   - component: {fileID: 23774657510549648}
-  - component: {fileID: 54521882188923544}
   - component: {fileID: 64370832256013854}
   m_Layer: 0
   m_Name: white_side_table#living_room
@@ -14153,22 +14133,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!54 &54521882188923544
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1585869949120438}
-  serializedVersion: 2
-  m_Mass: 5
-  m_Drag: 0.01
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!64 &64370832256013854
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18785,6 +18749,7 @@ GameObject:
   - component: {fileID: 4110817371481762}
   - component: {fileID: 33001565058456422}
   - component: {fileID: 23328873533690404}
+  - component: {fileID: 2525596613636200588}
   m_Layer: 0
   m_Name: jaguti_reba
   m_TagString: Untagged
@@ -18851,6 +18816,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &2525596613636200588
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1808410825654286}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: -1
+  m_Mesh: {fileID: 4300010, guid: 0465f963a5179614b809eebbaa471734, type: 3}
 --- !u!1 &1808496151616462
 GameObject:
   m_ObjectHideFlags: 0
@@ -19052,7 +19031,6 @@ GameObject:
   - component: {fileID: 4273841396308734}
   - component: {fileID: 33249602173298736}
   - component: {fileID: 23582424675930686}
-  - component: {fileID: 54485964688117262}
   - component: {fileID: 64483123110002730}
   m_Layer: 0
   m_Name: white_side_table#lobby
@@ -19124,22 +19102,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!54 &54485964688117262
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1820897051635154}
-  serializedVersion: 2
-  m_Mass: 5
-  m_Drag: 0.01
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!64 &64483123110002730
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -22371,6 +22333,7 @@ GameObject:
   - component: {fileID: 4478620857404240}
   - component: {fileID: 33686394205112172}
   - component: {fileID: 23754546230335104}
+  - component: {fileID: 2078241171519871507}
   m_Layer: 0
   m_Name: jaguti_2
   m_TagString: Untagged
@@ -22437,6 +22400,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &2078241171519871507
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926395770307106}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: -1
+  m_Mesh: {fileID: 4300014, guid: 0465f963a5179614b809eebbaa471734, type: 3}
 --- !u!1 &1927347358688306
 GameObject:
   m_ObjectHideFlags: 0
@@ -23234,7 +23211,6 @@ GameObject:
   - component: {fileID: 4984027639710190}
   - component: {fileID: 33762358176407814}
   - component: {fileID: 23022007018485286}
-  - component: {fileID: 54102273634788522}
   - component: {fileID: 64853551912778060}
   m_Layer: 0
   m_Name: white_side_table#bedroom_2
@@ -23306,22 +23282,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!54 &54102273634788522
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1951583621008226}
-  serializedVersion: 2
-  m_Mass: 5
-  m_Drag: 0.01
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!64 &64853551912778060
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27319,6 +27279,7 @@ GameObject:
   - component: {fileID: 5606704891732692253}
   - component: {fileID: 5595882996482289353}
   - component: {fileID: 5588196830593313809}
+  - component: {fileID: 3932998200970302183}
   m_Layer: 0
   m_Name: jaguti_1
   m_TagString: Untagged
@@ -27385,6 +27346,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &3932998200970302183
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5609270528185025949}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: -1
+  m_Mesh: {fileID: 4300016, guid: 0465f963a5179614b809eebbaa471734, type: 3}
 --- !u!1 &5609274328874786415
 GameObject:
   m_ObjectHideFlags: 0
@@ -27962,6 +27937,7 @@ GameObject:
   - component: {fileID: 5607129018099026175}
   - component: {fileID: 5596604730654422331}
   - component: {fileID: 5588120078601583737}
+  - component: {fileID: 3947462634977925080}
   m_Layer: 0
   m_Name: jaguti_reba
   m_TagString: Untagged
@@ -28028,6 +28004,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &3947462634977925080
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5609356873651531347}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: -1
+  m_Mesh: {fileID: 4300010, guid: 0465f963a5179614b809eebbaa471734, type: 3}
 --- !u!1 &5609359991534368333
 GameObject:
   m_ObjectHideFlags: 0
@@ -34695,6 +34685,7 @@ GameObject:
   - component: {fileID: 5606623212073699475}
   - component: {fileID: 5596036663317429435}
   - component: {fileID: 5587568387485037295}
+  - component: {fileID: 7318340721268754058}
   m_Layer: 0
   m_Name: jaguti_2
   m_TagString: Untagged
@@ -34761,6 +34752,20 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &7318340721268754058
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5610851297545460143}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: -1
+  m_Mesh: {fileID: 4300014, guid: 0465f963a5179614b809eebbaa471734, type: 3}
 --- !u!1 &5610852239465103789
 GameObject:
   m_ObjectHideFlags: 0
