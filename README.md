@@ -10,8 +10,8 @@ See also [wiki page](https://github.com/RoboCupatHomeSim/handyman-unity/wiki).
 
 ## Prerequisites
 
-- OS: Windows 10
-- Unity version: 2018.4.11f1
+Same as below for OS and Unity version.
+https://github.com/RoboCupatHomeSim/documents/blob/master/SoftwareManual/Environment.md#windows-pc
 
 ## How to Build
 
