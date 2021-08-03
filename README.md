@@ -63,7 +63,7 @@ SIGVerse window will be opened.
 
 Please start the ROS side application beforehand.  
 
-### Execute On Unity Editor
+### Execute on Unity Editor
 1. Click [SIGVerse]-[Set Default GameView Size].
 2. Double click "Assets/Competition/Handyman/Handyman(.unity)" in Project window.
 3. Click the Play button at the top of the Unity editor.
