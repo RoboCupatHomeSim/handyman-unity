@@ -19,6 +19,7 @@ namespace SIGVerse.Competition.Handyman
 		public bool   isAlwaysGoNext;
 		public int    playbackType;
 		public float  bgmVolume;
+		public bool   reduceLoadInDataGen;
 	}
 
 	public class HandymanConfig : Singleton<HandymanConfig>
@@ -61,13 +62,14 @@ namespace SIGVerse.Competition.Handyman
 				SIGVerseLogger.Warn("Handyman config file does not exists.");
 
 				this.configFileInfo.teamName = "XXXX";
-				this.configFileInfo.sessionTimeLimit  = 600;
-				this.configFileInfo.maxNumberOfTrials = 15;
-				this.configFileInfo.isScoreFileRead   = false;
+				this.configFileInfo.sessionTimeLimit    = 600;
+				this.configFileInfo.maxNumberOfTrials   = 15;
+				this.configFileInfo.isScoreFileRead     = false;
 				this.configFileInfo.isGraspableObjectsPositionRandom = true;
-				this.configFileInfo.isAlwaysGoNext = false;
-				this.configFileInfo.playbackType = HandymanPlaybackCommon.PlaybackTypeRecord;
-				this.configFileInfo.bgmVolume = 0.01f;
+				this.configFileInfo.isAlwaysGoNext      = false;
+				this.configFileInfo.playbackType        = HandymanPlaybackCommon.PlaybackTypeRecord;
+				this.configFileInfo.bgmVolume           = 0.01f;
+				this.configFileInfo.reduceLoadInDataGen = false;
 
 				this.SaveConfig();
 #else
