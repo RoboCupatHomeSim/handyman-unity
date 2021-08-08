@@ -60,7 +60,7 @@ For details on these files, see [here](https://github.com/RoboCupatHomeSim/conso
 SIGVerse window will be opened.
 3. Type the IP address of ROS to "Rosbridge IP" in SIGVerse window.
 
-## How to Execute Handyman Program
+## How to Execute Handyman
 
 Please start the ROS side application beforehand.  
 See [handyman-ros](https://github.com/RoboCupatHomeSim/handyman-ros) for an example application.
