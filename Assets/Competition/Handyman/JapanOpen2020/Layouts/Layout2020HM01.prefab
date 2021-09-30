@@ -10815,7 +10815,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1689407264171212865}
   - component: {fileID: 8860316109689691684}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: JudgeTriggerOn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14150,7 +14150,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3670782000962011330}
   - component: {fileID: 2634696847818389231}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: JudgeTriggerIn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25449,7 +25449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 749031651493086161}
   - component: {fileID: 335558633899971652}
-  m_Layer: 8
+  m_Layer: 2
   m_Name: JudgeTriggerOn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25593,7 +25593,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1311535663265220783}
   - component: {fileID: 5660734707376012882}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: JudgeTriggerOn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
