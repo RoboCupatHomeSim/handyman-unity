@@ -71,7 +71,7 @@ See [handyman-ros](https://github.com/RoboCupatHomeSim/handyman-ros) for an exam
 3. Click the Play button at the top of the Unity editor.
 
 ### Execute the Executable file
-1. Copy the "SIGVerseConfig" folder and the "TTS" folder into the "Build" folder.
+1. Copy the "TTS" folder into the "Build" folder.
 2. Double Click the "Handyman.exe" in the "Build" folder.
 
 ## License
