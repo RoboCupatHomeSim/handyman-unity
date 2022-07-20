@@ -18,7 +18,7 @@ https://github.com/RoboCupatHomeSim/documents/blob/master/SoftwareManual/Environ
 ### Import the common Unitypackage
 
 1. Open this project with Unity.
-2. Click [Ignore] in the [Enter Safe Mode?] window.
+2. Click [**Ignore**] in the [Enter Safe Mode?] window.
 3. Click [Assets]-[Import Package]-[Custom Package...].
 4. Select a common unitypackage (e.g. robocup-common.unitypackage) and open the file.
 5. Click [Import] button.
