@@ -18,11 +18,13 @@ https://github.com/RoboCupatHomeSim/documents/blob/master/SoftwareManual/Environ
 ### Import the common Unitypackage
 
 1. Open this project with Unity.
-2. Click [**Ignore**] in the [Enter Safe Mode?] window.
-3. Click [Assets]-[Import Package]-[Custom Package...].
-4. Select a common unitypackage (e.g. robocup-common.unitypackage) and open the file.
-5. Click [Import] button.
-6. Please confirm that no error occurred in Console window.
+1. Click [**Ignore**] in the [Enter Safe Mode?] window.
+1. Click [Assets]-[Import Package]-[Custom Package...].
+1. Select a common unitypackage (e.g. robocup-common.unitypackage) and open the file.
+1. Click [Import] button.
+1. Click [Assets]-[**Reimport All**].
+1. Click [**Reimport**] button.
+1. Please confirm that no error occurred in Console window.
 
 
 ### Import Executable file and Dll for TTS
