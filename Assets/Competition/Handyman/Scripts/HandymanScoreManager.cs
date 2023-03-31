@@ -41,8 +41,10 @@ namespace SIGVerse.Competition.Handyman
 				case Score.Type.GraspingFailure          : { return -10; }
 				case Score.Type.PlacementSuccess         : { return +30; }
 				case Score.Type.PlacementFailure         : { return -10; }
-				case Score.Type.HsrCollisionEnter        : { return GetHsrCollisionScore   ((Collision)args[0], (float)args[1]); }
-				case Score.Type.ObjectCollisionEnter     : { return GetObjectCollisionScore((SIGVerse.Competition.CollisionType)args[0], (Collision)args[1], (float)args[2]); }
+				case Score.Type.HsrCollisionEnter        : { return 0; }
+//				case Score.Type.HsrCollisionEnter        : { return GetHsrCollisionScore   ((Collision)args[0], (float)args[1]); }
+				case Score.Type.ObjectCollisionEnter     : { return 0; }
+//				case Score.Type.ObjectCollisionEnter     : { return GetObjectCollisionScore((SIGVerse.Competition.CollisionType)args[0], (Collision)args[1], (float)args[2]); }
 			}
 
 			throw new Exception("Illegal score type. Type = " + (int)scoreType + ", method name=(" + System.Reflection.MethodBase.GetCurrentMethod().Name + ")");
